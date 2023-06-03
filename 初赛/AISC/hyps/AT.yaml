@@ -1,0 +1,6 @@
+attack_T: 100
+lr: 0.01
+ephslion: 32
+attackObject: 'target'
+attackMethod: ['MIM','TIM','DIM','SIM','NIM']
+sourceModels: ['ArcFace','CosFace','FaceNet_casia','FaceNet_vggface2','Resnet50','IR50_CASIA_ArcFace_Benchmark','IR50_PGDArcFace_Benchmark','IR50_TradesCosFace_Benchmark','IR50_PGDCosFace_Benchmark','MobileFacenet','IR50_PGDSoftmax_Benchmark','MobileNetV2']

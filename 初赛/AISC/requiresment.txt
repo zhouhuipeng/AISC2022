@@ -1,0 +1,11 @@
+torch==1.7.1
+torchvision
+torchaudio
+pyyaml
+tqdm
+opencv-python
+facenet-pytorch
+pillow
+scipy
+# pip install click requests tqdm pyspng ninja imageio-ffmpeg==0.4.3
+#小心适配Style_GAN2，有坑一般都是CUDA toolkit
